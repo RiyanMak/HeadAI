@@ -1,2 +1,4 @@
 # Scale-AI-hackathon
-Using a Head AI model to ask sub models according to input from user and give them the most accurate output
+The team was awarded First Place for using Donovan to aggregate Large Language Model (LLM) responses to user queries and dynamically return the optimal response based on the average embeddings.
+
+
